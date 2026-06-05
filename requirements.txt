@@ -6,3 +6,5 @@ matplotlib
 seaborn
 nltk
 jupyter or google collab
+streamlit
+openai
